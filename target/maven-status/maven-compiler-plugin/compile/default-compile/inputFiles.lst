@@ -1,0 +1,10 @@
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/LocationApplication.java
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/service/fence/FenceServer.java
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/service/fence/CircleFenceService.java
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/esmodel/Region.java
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/esmodel/Position.java
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/controller/LocationController.java
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/model/BaiduEnum.java
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/model/CircleFenceCreateRequest.java
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/model/FenceCreateParam.java
+/Users/fangzongzhou/workspace/Gofer/location/src/main/java/com/gofer/location/model/BaiduLocationRequest.java

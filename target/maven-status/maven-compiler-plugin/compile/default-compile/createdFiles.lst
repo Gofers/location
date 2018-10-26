@@ -1,0 +1,10 @@
+com/gofer/location/esmodel/Region.class
+com/gofer/location/esmodel/Position.class
+com/gofer/location/model/BaiduLocationRequest.class
+com/gofer/location/LocationApplication.class
+com/gofer/location/model/CircleFenceCreateRequest.class
+com/gofer/location/service/fence/FenceServer.class
+com/gofer/location/controller/LocationController.class
+com/gofer/location/model/FenceCreateParam.class
+com/gofer/location/model/BaiduEnum.class
+com/gofer/location/service/fence/CircleFenceService.class
