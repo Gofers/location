@@ -3,4 +3,5 @@
 mvnw
 mvnw.cmd
 *.iml
+*.class
 
